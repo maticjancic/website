@@ -17,7 +17,7 @@ image:
 projects: []
 ---
 
-A couple of weeks ago, just before this current crisis with corona virus outbreak, I had yet another interesting and funny discussion with my friend Marko. He wanted to be a mathematician, but figured out that there is much more money in programming. So he learned it and landed a great job in a programming firm. He told me, not for the first time, that your personal website is the first thing you need to do if you want to a programmer - you should try it :D So, with a bit of extra time being in home isolation, I decided - let's do it then.
+A couple of weeks ago, just before this current crisis with corona virus outbreak, I had yet another interesting and funny discussion with my friend Marko. He wanted to be a mathematician, but figured out that there is much more money in programming. So he learned it and landed a great job in a programming firm. He told me, not for the first time, that your personal website is the first thing you need to do if you want to be a programmer - you should try it :D So, with a bit of extra time being in home isolation, I decided - let's do it then.
 
 So, after a brief investigation on how to do it, I decided to use R as it is the only programming language I know how to use (so far). I figured out that there is everything in place for newbies like me, to do it fairly quickly and efficiently: [R](https://cran.r-project.org/web/packages/scholar/index.html) [blogdown package](https://bookdown.org/yihui/blogdown/) in combination with [github](.com), [hugo](https://gohugo.io/)  [academic template](https://themes.gohugo.io/academic/) and [netlify](https://www.netlify.com/).
 
