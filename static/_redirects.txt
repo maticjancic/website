@@ -1,0 +1,3 @@
+https://relaxed-mclean-ec7817.netlify.com/* https://maticjancic.rbind.io/:splat  301!
+http://relaxed-mclean-ec7817.netlify.com/*  https://maticjancic.rbind.io/:splat  301!
+http://maticjancic.rbind.io/*		    https://maticjancic.rbind.io/:splat  301!
