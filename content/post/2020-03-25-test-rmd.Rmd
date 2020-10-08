@@ -22,5 +22,3 @@ A couple of weeks ago, just before this current crisis with corona virus outbrea
 So, after a brief investigation on how to do it, I decided to use R as it is the only programming language I know how to use (so far). I figured out that there is everything in place for newbies like me, to do it fairly quickly and efficiently: [R](https://cran.r-project.org/web/packages/scholar/index.html) [blogdown package](https://bookdown.org/yihui/blogdown/) in combination with [github](.com), [hugo](https://gohugo.io/)  [academic template](https://themes.gohugo.io/academic/) and [netlify](https://www.netlify.com/).
 
 The page is very rudimentary as are my web page editing skills, but will get better, or at least i hope so. **So, thanks Marko for the encouragement!!**
-
-<iframe width ="100%" height = "1500" frameborder="no" src="https://maticjancic.shinyapps.io/distance_sampling/"> </iframe>

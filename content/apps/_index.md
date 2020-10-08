@@ -2,6 +2,6 @@
 header:
   caption: ""
   image: ""
-title: Applications
+title: Apps
 view: 2
 ---
