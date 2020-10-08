@@ -1,0 +1,24 @@
+---
+title: How a friend convinced me that I need to make my own website
+author: Matic Jančič
+date: '2020-03-25'
+slug: test-rmd
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-03-25T13:30:55+01:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+A couple of weeks ago, just before this current crisis with corona virus outbreak, I had yet another interesting and funny discussion with my friend Marko. He wanted to be a mathematician, but figured out that there is much more money in programming. So he learned it and landed a great job in a programming firm. He told me, not for the first time, that your personal website is the first thing you need to do if you want to be any kind of a programmer - you should try it :D With a bit of extra time being in home isolation, I decided - let's do it then.
+
+So, after a brief investigation on how to do it, I decided to use R as it is the only programming language I know how to use (so far). I figured out that there is everything in place for newbies like me, to do it fairly quickly and efficiently: [R](https://cran.r-project.org/web/packages/scholar/index.html) [blogdown package](https://bookdown.org/yihui/blogdown/) in combination with [github](.com), [hugo](https://gohugo.io/)  [academic template](https://themes.gohugo.io/academic/) and [netlify](https://www.netlify.com/).
+
+The page is very rudimentary as are my web page editing skills, but will get better, or at least i hope so. **So, thanks Marko for the encouragement!!**
