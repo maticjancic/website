@@ -1,7 +1,6 @@
 ---
-title: "Distance Sampling Application"
 output: html_document
 runtime: shiny
 ---
 
-<iframe src="https://maticjancic.shinyapps.io/distance_sampling/"> </iframe>
+<iframe width ="100%" height = "1500" frameborder="no" src="https://maticjancic.shinyapps.io/distance_sampling/"> </iframe>
