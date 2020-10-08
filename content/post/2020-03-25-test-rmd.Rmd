@@ -15,6 +15,7 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
+runtime: shiny 
 ---
 
 A couple of weeks ago, just before this current crisis with corona virus outbreak, I had yet another interesting and funny discussion with my friend Marko. He wanted to be a mathematician, but figured out that there is much more money in programming. So he learned it and landed a great job in a programming firm. He told me, not for the first time, that your personal website is the first thing you need to do if you want to be any kind of a programmer - you should try it :D With a bit of extra time being in home isolation, I decided - let's do it then.
